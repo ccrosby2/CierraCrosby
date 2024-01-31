@@ -1,6 +1,6 @@
 #Cierra Crosby
 #1/31/2024
-#This program prints the words "hello world"
-Fareinheit=int(input("What is fareinheit of a degree?"))
-Celcius=(Fareinheit - 32) * 5/9
-print ("Celcius is", Celcius)
+#This program convert degrees Fahrenheit to degrees Celsius.
+Fahrenheit=int(input("What is the fahrenheit of a degree?"))
+Celcius=(Fahrenheit - 32) * 5/9
+print ("Celsius is", Celsius)
